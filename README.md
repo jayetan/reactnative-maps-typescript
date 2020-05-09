@@ -15,5 +15,5 @@ set the default initialState location in src/store/context/index.tsx
 
 
 ## Screenshots
-![](screenshot-android.jpg)
-![](screenshot-ios.jpg)
+<img src="screenshot-android.jpg" width="250" />
+<img src="screenshot-ios.jpg" width="250" />
